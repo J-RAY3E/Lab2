@@ -31,4 +31,8 @@ public class J implements A, I {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public double ee() {
+        return 0.000001;
+    }
 }
