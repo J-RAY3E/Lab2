@@ -43,4 +43,8 @@ public class J implements A, I {
     public void ab() {
         return;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }

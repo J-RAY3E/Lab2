@@ -43,4 +43,8 @@ public class G implements A, I {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
+    public int cc() {
+        return 42;
+    }
 }
