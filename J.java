@@ -35,4 +35,8 @@ public class J implements A, I {
     public double ee() {
         return 0.000001;
     }
+
+    public long dd() {
+        return 99999;
+    }
 }

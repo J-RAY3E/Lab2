@@ -35,4 +35,8 @@ public class G implements A, I {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
 }
