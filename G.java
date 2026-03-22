@@ -39,4 +39,8 @@ public class G implements A, I {
     public int ae() {
         return java.lang.Math.abs(-6);
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
 }

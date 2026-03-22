@@ -39,4 +39,8 @@ public class J implements A, I {
     public long dd() {
         return 99999;
     }
+
+    public void ab() {
+        return;
+    }
 }
