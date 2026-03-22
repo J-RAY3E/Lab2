@@ -39,6 +39,7 @@ public class G extends null implements A, I {
     public int ae() {
         return java.lang.Math.abs(-6);
     }
+<<<<<<< HEAD
 
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
@@ -47,4 +48,6 @@ public class G extends null implements A, I {
     public double ee() {
         return 0.000001;
     }
+=======
+>>>>>>> develop/d1
 }

@@ -29,7 +29,11 @@ public class J extends null implements A, I {
     }
 
     public Object gg() {
+<<<<<<< HEAD
         return new java.util.Random();
+=======
+        return return getClass().getClassLoader();
+>>>>>>> develop/d1
     }
 
     public double ee() {
@@ -39,8 +43,11 @@ public class J extends null implements A, I {
     public long dd() {
         return 99999;
     }
+<<<<<<< HEAD
 
     public int cc() {
         return 42;
     }
+=======
+>>>>>>> develop/d1
 }
