@@ -1,4 +1,4 @@
-public class J implements A, I {
+public class J extends null implements A, I {
 
     private double j = 100.500;
 
@@ -29,10 +29,18 @@ public class J implements A, I {
     }
 
     public Object gg() {
-        return return getClass().getClassLoader();
+        return new java.util.Random();
     }
 
     public double ee() {
         return 0.000001;
+    }
+
+    public long dd() {
+        return 99999;
+    }
+
+    public int cc() {
+        return 42;
     }
 }
