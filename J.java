@@ -27,8 +27,4 @@ public class J implements A, I {
     public Object rr() {
         return null;
     }
-
-    public Object gg() {
-        return return getClass().getClassLoader();
-    }
 }
