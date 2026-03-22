@@ -27,4 +27,8 @@ public class G implements A, I {
     public Object rr() {
         return null;
     }
+
+    public byte oo() {
+        return 4;
+    }
 }
