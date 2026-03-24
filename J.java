@@ -1,4 +1,4 @@
-public class J extends null implements A, I {
+public class J implements A, I {
 
     private double j = 100.500;
 
@@ -58,5 +58,25 @@ public class J extends null implements A, I {
 
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public double ee() {
+        return 0.000001;
+    }
+
+    public long dd() {
+        return 99999;
+    }
+
+    public void ab() {
+        return;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
+    public String kk() {
+        return "Hello world";
     }
 }

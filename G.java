@@ -1,4 +1,4 @@
-public class G extends null implements A, I {
+public class G implements A, I {
 
     private int j = 1;
 
@@ -49,18 +49,10 @@ public class G extends null implements A, I {
     }
 
     public int cc() {
-        return 39;
+        return 42;
     }
 
-    public java.util.Random mm() {
-        return new java.util.Random();
-    }
-
-    public int hh() {
-        return new java.util.Random().nextInt();
-    }
-
-    public void ab() {
-        System.out.println("\n");
+    public long ac() {
+        return 111;
     }
 }

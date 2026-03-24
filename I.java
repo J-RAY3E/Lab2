@@ -1,4 +1,4 @@
-public class I extends null {
+public interface I {
 
     void aa();
 

@@ -1,5 +1,4 @@
-public class A extends null {
-
+public interface A {
     void bb();
 
     Object pp();
