@@ -47,4 +47,8 @@ public class G implements A, I {
     public int cc() {
         return 42;
     }
+
+    public long ac() {
+        return 111;
+    }
 }
