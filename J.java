@@ -28,26 +28,35 @@ public class J extends null implements A, I {
         return null;
     }
 
-    public Object gg() {
-<<<<<<< HEAD
-        return new java.util.Random();
-=======
-        return return getClass().getClassLoader();
->>>>>>> develop/d1
-    }
-
     public double ee() {
         return 0.000001;
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
     }
 
     public long dd() {
         return 99999;
     }
-<<<<<<< HEAD
 
-    public int cc() {
-        return 42;
+    public void ab() {
+        System.out.println("\n");
     }
-=======
->>>>>>> develop/d1
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
 }

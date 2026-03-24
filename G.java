@@ -28,6 +28,14 @@ public class G extends null implements A, I {
         return null;
     }
 
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
+
+    public double ee() {
+        return 0.000001;
+    }
+
     public byte oo() {
         return 4;
     }
@@ -36,18 +44,23 @@ public class G extends null implements A, I {
         return new java.util.Random();
     }
 
-    public int ae() {
-        return java.lang.Math.abs(-6);
-    }
-<<<<<<< HEAD
-
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
 
-    public double ee() {
-        return 0.000001;
+    public int cc() {
+        return 39;
     }
-=======
->>>>>>> develop/d1
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
 }
